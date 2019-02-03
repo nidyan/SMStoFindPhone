@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">SMS To Find Phone</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">send</string>
+  <string name="app_name">SMS To Find Phone</string>
+  <string name="edit_message">Enter a message</string>
+  <string name="button_send">send</string>
+  <string name="message_list">Message List</string>
+  <string name="searchBarText">Search your message here</string>
 </resources>
